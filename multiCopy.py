@@ -17,17 +17,16 @@ def copy(number='0'):
 	global value4
 
 	if pc.paste() != '':
-		if pc.paste() != '':
-			if number == '0':
-				value = pc.paste()
-			elif number == '1':
-				value1 = pc.paste()
-			elif number == '2':
-				value2 = pc.paste()
-			elif number == '3':
-				value3 = pc.paste()
-			elif number == '4':
-				value4 = pc.paste()
+		if number == '0':
+			value = pc.paste()
+		elif number == '1':
+			value1 = pc.paste()
+		elif number == '2':
+			value2 = pc.paste()
+		elif number == '3':
+			value3 = pc.paste()
+		elif number == '4':
+			value4 = pc.paste()
 
 
 def paste(number='0'):
