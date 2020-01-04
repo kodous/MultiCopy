@@ -10,10 +10,10 @@ it gives the user, the possibility to copy 5 times things to the clipboard at th
   
 # Requirements
   * Keyboard module: to monitor keyboard events
-  '''
+  ```
   pip install keyboard
-  '''
+  ```
   * pyperclip module: to copy and paste from the clipboard
-  '''
+  ```
   pip install pyperclip
-  '''
+  ```
