@@ -1,5 +1,5 @@
 # MultiCopy
-it gives the user, the possibility to copy 5 times things to the clipboard at the same time, then select the copy number and paste it
+it gives the user, the possibility to copy 5 things to the clipboard at the same time, then select the copy number and paste it
 
 # how to use
 * it catches 'ctrl+c+number' (while number between 0 and 4) and copies the value from the clipboard and stores it in the number'th
