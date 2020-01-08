@@ -1,5 +1,6 @@
 # MultiCopy
-it gives the user, the possibility to copy 10 things to the clipboard at the same time, then select the copy number and paste it
+it gives the user, the possibility to copy 10 things to the clipboard at the same time, then select the copy number and paste it.
+Works on Windows 10, tried it on Debian 9 and it doesn't work (problem with the module keyboard)
 
 # how to use
 * it catches 'ctrl+c+number' (while number between 0 and 9) and copies the value from the clipboard and stores it in the number'th
